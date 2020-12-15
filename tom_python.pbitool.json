@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "name": "TOM Python",
+    "description": "Abre VS Code con un ambiente virtual Python activado y con las variables de ambiente PBI_SERVER y PBI_DB",
+    "path": "C:/Windows/System32/WindowsPowerShell/v1.0/powershell.exe",
+    "arguments": "-Command C:/Users/NelsonAdmin/source/repos/tom/python/pbi_to_python.ps1 %server% %database%",
+	"iconData": ""
+}

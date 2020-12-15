@@ -1,0 +1,79 @@
+Nodo Fuente,Nodo Destino
+Net Sales PM,Net Sales
+Last 2 Months Net Sales,Net Sales
+Net Sales Variance,Net Sales
+Net Sales Variance %,Net Sales
+WIF Price per Unit,Net Sales
+WIF Profit,Net Sales
+Profit Difference,Net Sales
+WIF Sales,Net Sales
+WIF Forecast,Net Sales
+WIF Profit Difference,Net Sales
+Net sales YTD,Net Sales
+Product Top N,Net Sales
+Product Sales Top 3,Net Sales
+Product Sales Other,Net Sales
+Store Top N,Net Sales
+Store Sales Other,Net Sales
+Store Sales Top 3,Net Sales
+Net Sales Label,Net Sales
+Last 2 Months Net Sales,Net Sales PM
+Net Sales Variance,Net Sales PM
+Net Sales Variance %,Net Sales PM
+Net Sales Indicator,Net Sales Variance %
+Units Sold PM,Units Sold
+Units Sold Variance %,Units Sold
+WIF Price per Unit,Units Sold
+Units Sold Variance %,Units Sold PM
+Units Sold Indicator,Units Sold Variance %
+Returns PM,Returns
+Last 2 Months Returns,Returns
+Returns Variance,Returns
+Returns Variance %,Returns
+Return Rate,Returns
+ProductR Top N,Returns
+Product Returns Other,Returns
+Product Returns Top 3,Returns
+StoreR Top N,Returns
+Store Returns Other,Returns
+Returns Sales Top 3,Returns
+Last 2 Months Returns,Returns PM
+Returns Variance,Returns PM
+Returns Variance %,Returns PM
+Returns Indicator,Returns Variance %
+Units Returned Indicator,Returns Variance %
+Units Returned PM,Units Returned
+Units Returned Variance %,Units Returned
+WIF Units Returned,Units Returned
+WIF Units Returned_1,Units Returned
+Units Returned Variance %,Units Returned PM
+WIF Same,Return Rate
+Total Return Rate,Return Rate
+WIF Units Returned,WIF Units Returned Average
+WIF Units Returned Average,WIF Units Returned Difference
+WIF Units Returned Difference,WIF Units Returned_1
+WIF Adjusted Sales,WIF Units Returned_1
+WIF Units Returned Difference,WIF Units Returned_2
+WIF Units Returned_2,WIF Adjusted Units Returned
+WIF Profit,WIF Adjusted Net Sales
+WIF Adjusted Net Sales,WIF Price per Unit
+WIF Adjusted Sales,WIF Price per Unit
+WIF Forecast,WIF Profit
+WIF Total Profit,WIF Profit
+Profit Difference,WIF Adjusted Sales
+WIF Profit,WIF Same
+WIF Total Forecast,WIF Forecast
+WIF Profit Difference,WIF Forecast
+Profit Indicator,WIF Profit Difference
+Product Sales Top 3,Product Top N
+Product Sales Other,Product Top N
+Association,Product Top N
+Store Sales Other,Store Top N
+Store Sales Top 3,Store Top N
+Product Returns Other,ProductR Top N
+Product Returns Top 3,ProductR Top N
+Store Returns Other,StoreR Top N
+Returns Sales Top 3,StoreR Top N
+WIF Adjusted Units Returned,% Return Rate Value
+WIF Adjusted Net Sales,% Return Rate Value
+WIF Same,% Return Rate Value
