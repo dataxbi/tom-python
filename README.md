@@ -4,7 +4,7 @@ Ejemplos del uso de la biblioteca .NET Tabular Object Model con Python para mani
 
 [tom_python.pbitool.json](tom_python.pbitool.json)
 
-Fichero JSON para añadir a Python como una herramienta extarna de Power BI Desktop.
+Fichero JSON para añadir a Python como una herramienta externa de Power BI Desktop.
 
 [pbi_to_python.ps1](pbi_to_python.ps1)
 
