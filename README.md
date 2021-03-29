@@ -14,7 +14,7 @@ Ejemplos del uso de la biblioteca .NET Tabular Object Model (TOM) con Python par
 
 Vídeo de la charla: https://youtu.be/Yc18TTs2y1w
 
-Entrada de blog: https://www.dataxbi.com/blog/2021/03/29/experimentos-xmla-powerbi/
+Entrada de blog: https://www.dataxbi.com/blog/2021/03/29/experimentando-xmla-powerbi/
 
 
 ## Charla "Jugando con TOM" del evento Data Analytics Day Iberoamerica (2020-12-12)
