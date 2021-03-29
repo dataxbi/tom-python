@@ -10,7 +10,7 @@ Ejemplos del uso de la biblioteca .NET Tabular Object Model (TOM) con Python par
 
 ## Charla "Jugando con TOM desde Python" del evento Global Power Platform Bootcamp 2021 Madrid (2021-02-20)
 
-[power_platform_madrid_ 2021.ipynb](power_platform_madrid_2021.ipynb): Notebook Jupyter utilizado en la charla
+[power_platform_madrid_2021.ipynb](power_platform_madrid_2021.ipynb): Notebook Jupyter utilizado en la charla
 
 Vídeo de la charla: https://youtu.be/Yc18TTs2y1w
 
